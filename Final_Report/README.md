@@ -4,7 +4,7 @@ An interesting interactive character recognition system.
 
 You can try to enter any text.
 
-But when you enter ♡, ♢, ♫, ⛤, ✕ and numbers, something interesting may happen.
+But when you enter ♡, ♢, ♫, ⛤, ✕ with numbers, something interesting may happen.
 
 
 
