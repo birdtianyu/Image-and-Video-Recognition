@@ -17,8 +17,8 @@ previous_x, previous_y = 0, 0
 
 
 # sample data
-images = np.load("./SampleData.npy")
-sample_targets = get_images(images)
+# images = np.load("./SampleData.npy")
+# sample_targets = get_images(images)
 strs = [u"\u2661", u"\u2662", '?', '?', u"\u266B", u"\u26E4", u"\u2715", 3, 4]
 
 def Handling(Prediction_strs):

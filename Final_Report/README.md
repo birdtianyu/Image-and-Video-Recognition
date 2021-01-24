@@ -30,9 +30,10 @@ python ./Main_GUI.py
 
 ## Effect example
 
-![Success](./images/Success.png)
 
+![Result](./images/result2.gif)
 
+![Result](./images/result3.gif)
 
 
 
